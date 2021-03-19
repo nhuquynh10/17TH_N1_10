@@ -26,5 +26,11 @@ namespace WindowsFormsApp1
         Dưới trời gian khổ chết yêu đương.
         Người xa xăm quá! - Tôi buồn lắm
         Trong một ngày vui pháo nhuộm đường...
+
+
+        Tôi sợ chiều thu phớt nắng mờ,
+        Chiều thu hoa đỏ rụng, chiều thu
+        Gió về lạnh lẽo, chân mây vắng,
+        Người ấy ngang sông đứng ngóng đò...
     }
 }
