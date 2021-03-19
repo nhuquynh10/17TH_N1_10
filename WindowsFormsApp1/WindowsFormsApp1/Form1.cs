@@ -16,5 +16,15 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        Người ấy thường hay ngắm lạnh lùng
+        Dải đường xa vút bóng chiều phong,
+        Và phương trời thẳm mờ sương, cát,
+        Tay vít dây hoa trắng cạnh lòng.
+
+        Đâu biết lần đi một lỡ làng,
+        Dưới trời gian khổ chết yêu đương.
+        Người xa xăm quá! - Tôi buồn lắm
+        Trong một ngày vui pháo nhuộm đường...
     }
 }
